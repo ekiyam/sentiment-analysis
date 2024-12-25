@@ -1,0 +1,24 @@
+# Core libraries for data processing and analysis
+numpy==1.24.3
+pandas==2.0.3
+scikit-learn==1.3.0
+matplotlib==3.7.1
+seaborn==0.12.2
+nltk==3.8.1
+
+# Machine Learning and Deep Learning frameworks
+xgboost==1.7.6
+tensorflow==2.12.0
+
+# Web scraping with Selenium
+selenium==4.11.2
+
+# Twitter API for real-time data collection
+tweepy==4.14.0
+
+# Text representations (optional, depending on usage)
+gensim==4.3.1
+spacy==3.5.3
+
+# Interactive visualizations
+plotly==5.15.0
